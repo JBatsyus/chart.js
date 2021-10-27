@@ -1,0 +1,22 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background: linear-gradient(45deg, #e9b490, #b4d8e9) no-repeat;
+}
+
+h1 {
+  color: #6c6960;
+}
+
+.container {
+  width: 450px;
+  height: 300px;
+  margin: 1% auto;
+}
+
+.App {
+  text-align: center;
+}
